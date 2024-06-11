@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "react-redux": "^9.1.2",
+    "react-toast-notifications": "^2.5.1",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
+  }
+}
